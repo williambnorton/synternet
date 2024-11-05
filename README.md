@@ -1,2 +1,2 @@
 # synternet
-Bill's Synternet Project Tutorial
+A Synternet Project Tutorial
